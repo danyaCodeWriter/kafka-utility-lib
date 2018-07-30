@@ -1,0 +1,13 @@
+### IDEA project files ###
+.idea/
+*.ipr
+*.iws
+*.iml
+
+### Java ###
+/plugin/
+target/
+/.project
+.gitignore
+src/main/resources/
+src/test/
